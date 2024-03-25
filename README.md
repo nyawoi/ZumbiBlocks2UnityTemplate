@@ -6,7 +6,7 @@ Unity project template for creating custom items for [Zumbi Blocks 2](https://st
 
 ## Setup
 
-1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [download the project from Releases](https://github.com/nyawoi/ZumbiBlocks2UnityTemplate/releases/latest/)
 2. Open the Zumbi Blocks 2 `Managed` folder:
 	- `steamapps\common\Zumbi Blocks 2 Open Alpha\ZumbiBlocks2_Data\Managed`
 3. Copy the following files:
@@ -14,7 +14,7 @@ Unity project template for creating custom items for [Zumbi Blocks 2](https://st
 	- `Unity.Postprocessing.Runtime.dll`
 	- `Unity.TextMeshPro.dll`
 	- `UnityEngine.UI.dll`
-4. Paste the copied files into the cloned repository's `Plugins` folder:
+4. Paste the copied files into the downloaded project's `Plugins` folder:
 	- `ZumbiBlocks2UnityTemplate\Assets\Plugins`
 5. Open the project with **[Unity 2020.3.17f1](https://unity.com/releases/editor/whats-new/2020.3.17)**
 
