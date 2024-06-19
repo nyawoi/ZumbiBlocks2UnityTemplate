@@ -4,6 +4,10 @@ Unity project template for creating custom items for [Zumbi Blocks 2](https://st
 
 **This is a starter project, containing script stubs. No actual game assets or scripts are included.**
 
+> [!NOTE]
+> This template includes the [AssetBundles Browser](https://github.com/Unity-Technologies/AssetBundles-Browser) package to easily export your custom items.  
+> Unity requires [Git](https://git-scm.com/downloads) be installed on your system to download the package.  
+
 ## Setup
 
 - [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [download the project from Releases](https://github.com/nyawoi/ZumbiBlocks2UnityTemplate/releases/latest/)
